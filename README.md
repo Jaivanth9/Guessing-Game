@@ -46,7 +46,7 @@ cd GuessTheNumberGame
 npx expo start
 Run on device:
 
-## Scan the QR code with Expo Go (Android/iOS)
+ **Scan the QR code with Expo Go (Android/iOS)**
 
 ## Author
 Jaivanth Koppula
